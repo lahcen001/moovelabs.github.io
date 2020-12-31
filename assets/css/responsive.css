@@ -6,8 +6,8 @@
 		box-shadow: 0 5px 27px 0 rgba(163, 48, 53, .25)
 	}
 	.ptb-100 {
-		padding-top: 50px;
-		padding-bottom: 50px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.section-title {
 		margin-bottom: 40px
@@ -839,8 +839,8 @@
 	}
 	.coming-soon {
 		height: 100%;
-		padding-top: 100px;
-		padding-bottom: 100px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.coming-soon .coming-soon-content h1 {
 		font-size: 30px;
@@ -1149,16 +1149,16 @@
 
 @media only screen and (min-width:768px) and (max-width:991px) {
 	.ptb-100 {
-		padding-top: 80px;
-		padding-bottom: 80px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.section-title h2 {
 		font-size: 29px
 	}
 	.main-banner {
 		height: 100%;
-		padding-top: 170px;
-		padding-bottom: 150px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.main-banner .hero-content {
 		margin-bottom: 45px
@@ -1612,8 +1612,8 @@
 		font-size: 21px
 	}
 	.page-title-banner {
-		padding-top: 165px;
-		padding-bottom: 100px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.cart-totals h3 {
 		font-size: 21px
@@ -1675,8 +1675,8 @@
 @media only screen and (min-width:992px) and (max-width:1199px) {
 	.main-banner {
 		height: 100%;
-		padding-top: 195px;
-		padding-bottom: 160px
+		padding-top: 20px;
+		padding-bottom: 20px
 	}
 	.main-banner .hero-content.pl-4 {
 		padding-left: 0!important
